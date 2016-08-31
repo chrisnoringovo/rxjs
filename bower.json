@@ -1,0 +1,21 @@
+{
+  "name": "rxjs-test",
+  "main": "rxjs.js",
+  "authors": [
+    "Chris Noring <chris.noring@ovoenergy.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "rxjs-dom": "rx-dom#^7.0.3"
+  }
+}
